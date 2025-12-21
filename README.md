@@ -27,6 +27,3 @@ This project showcases popular travel destinations with a modern UI, smooth anim
 - **CSS3** – Styling, animations, responsive layout  
 - **JavaScript (ES6)** – Interactivity & dynamic content  
 
----
-
-## 📂 Project Structure
